@@ -6,4 +6,4 @@ new Vue({
   created() {
   },
   render: (h) => h(App),
-}).$mount('#app');
+}).$mount('#vue-app');
